@@ -9,7 +9,7 @@ const client = new Client({
     user: 'macbook',
     host: 'localhost',
     database: 'tyscrm',
-    password: 'none',
+    password: '',
     port: 5432,
 })
 
